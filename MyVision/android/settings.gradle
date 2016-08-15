@@ -1,0 +1,3 @@
+rootProject.name = 'MyVision'
+
+include ':app'
